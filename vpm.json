@@ -1,0 +1,28 @@
+{
+    "name": "METAFES_Validator",
+    "author": "株式会社ポリゴンテーラーコンサルティング",
+    "url": "https://raw.githubusercontent.com/PolygontailorC/METAFES_Validator/master/vpm.json",
+    "id": "jp.polygontailor.metafesvpm",
+    "packages": {
+        "jp.polygontailor.metafestool": {
+            "versions": {
+                "2.0.0": {
+                    "version": "2.0.0",
+                    "name": "jp.polygontailor.metafestool",
+                    "displayName": "METAFES_Validator",
+                    "unity": "2019.4",
+                    "vpmDependencies" : {
+                        "com.vrchat.worlds": "^3.3.x"
+                    },
+                    "author": {
+                        "name": "株式会社ポリゴンテーラーコンサルティング",
+                        "url" : "https://metafes.jp/contact"
+                    },
+                    "url": "https://github.com/PolygontailorC/METAFES_Validator/releases/download/2.0.0/Metafes_Validator_2.0.0.zip",
+                    "repo": "https://raw.githubusercontent.com/PolygontailorC/METAFES_Validator/master/vpm.json"
+                }
+            }
+        }
+    }
+}
+  
