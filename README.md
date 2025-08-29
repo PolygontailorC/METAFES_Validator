@@ -1,5 +1,5 @@
 # METAFES_Validator  
 メタフェス入稿ツール  
 
-#### ©︎2023 POLYGON TAILOR Inc.
+#### ©︎2023~2025 POLYGON TAILOR Inc.
 
