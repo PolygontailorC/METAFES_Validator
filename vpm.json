@@ -5,7 +5,22 @@
     "id": "jp.polygontailor.metafesvpm",
     "packages": {
         "jp.polygontailor.metafestool": {
-            "versions": {
+            "versions": {                          
+                "5.0.0": {
+                    "version": "5.0.0",
+                    "name": "jp.polygontailor.metafestool",
+                    "displayName": "METAFES_Validator",
+                    "unity": "2022.3",
+                    "vpmDependencies": {
+                        "com.vrchat.worlds": "^3.10.x"
+                    },
+                    "author": {
+                        "name": "株式会社ポリゴンテーラーコンサルティング",
+                        "url": "https://metafes.jp/2026/contact"
+                    },
+                    "url": "https://github.com/PolygontailorC/METAFES_Validator/releases/download/5.0.0/Metafes_Validator_5.0.0.zip",
+                    "repo": "https://raw.githubusercontent.com/PolygontailorC/METAFES_Validator/master/vpm.json"
+                },
                 "4.0.1": {
                     "version": "4.0.1",
                     "name": "jp.polygontailor.metafestool",
